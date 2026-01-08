@@ -10,7 +10,7 @@ import uuid
 import asyncio
 
 # ========= CONFIG =========
-BOT_TOKEN = "8525233229:AAG8dgtgVgH_KqbHjnSb7unKmla-fotp0Tc"
+BOT_TOKEN = "YOUR_BOT_TOKEN_HERE"
 ADMIN_ID = 1096992356
 BOT_USERNAME = "PlusZoneX_bot"
 STORAGE_CHANNEL_ID = -1003570732474  # Private Storage Channel
